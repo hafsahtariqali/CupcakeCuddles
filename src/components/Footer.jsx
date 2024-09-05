@@ -73,7 +73,7 @@ const Footer = () => {
             <p>&#169; 2024 Cupcake Cuddles</p>
           </div>
           <div className="flex justify-center">
-            <a href='/'>
+            <a href='https://github.com/hafsahtariqali/CupcakeCuddles.git'>
           <Github size={20} color='#fff' />
            </a>
           </div>
